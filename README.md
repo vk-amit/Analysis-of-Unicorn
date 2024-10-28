@@ -7,8 +7,8 @@ This project is done in three parts:
 2- Data Extraction
 3- Data Visualisation
 
-
 <br />
+
 Information on the dataset include:
 - `Company` : Company name
 - `Valuation` : Company valuation in billions of dollars
